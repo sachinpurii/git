@@ -15,7 +15,7 @@ const Reports = require('./routes/Report');
 const account = require('./routes/account');
 const dotenv = require("dotenv");
 
-//KZMtQyBefqDWBjFaAVYW
+// /KZMtQyBefqDWBjFaAVYW
 
 app.use(express.json());
 app.use('/auth', Route);
